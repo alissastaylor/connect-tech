@@ -4,7 +4,7 @@ Jonathan Kemp @jonkemp
 Slides at speakerdeck.com/jonkemp
 
 
-Vue is very lightweight.
+#Vue is very lightweight.
 To use: create a js page and a html page.
 
 Components:
