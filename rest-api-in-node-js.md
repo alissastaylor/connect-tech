@@ -5,6 +5,7 @@ Shikhir Singh
 Lookup:
 #BloomEx
 #Swagger
+#Ray Camden
 
 #LoopBack
   *Opensource Node.js framework
@@ -48,7 +49,7 @@ Lookup:
     * Sometimes does not give error messaging
       * Does have good Stack Overflow 
       * Potentially still worth using IBM because of better support
-      
+
     
 
 
