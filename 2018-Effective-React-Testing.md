@@ -1,6 +1,9 @@
 Effective React Testing
 Jeremy Fairbank 
 Friday, 10:00 AM
+bit.ly/react-test-ct
+github.com/jfairbank/effective-react-testing
+
 #Testing Using Jest
 - with Jest you can run specific tests without running all of them
 - mount = fully renders everything 
